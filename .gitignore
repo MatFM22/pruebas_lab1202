@@ -26,7 +26,8 @@ HELP.md
 /build/
 
 ### VS Code ###
-.vscode/
 
 ### Mac ###
 **/.DS_Store
+config.bat
+node_modules
