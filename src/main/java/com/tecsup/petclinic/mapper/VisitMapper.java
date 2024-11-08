@@ -1,4 +1,4 @@
 package com.tecsup.petclinic.mapper;
 
-public class VisitMapper {
+public interface VisitMapper {
 }
